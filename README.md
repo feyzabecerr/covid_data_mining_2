@@ -2,5 +2,5 @@
 Applying some data preproccessing methods to Covid Data.
 
 * Used;
-* Data preprocessing methods,
+* Data exploration methods,
 * Data Visualitazion.
